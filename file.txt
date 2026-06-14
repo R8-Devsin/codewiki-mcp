@@ -1,0 +1,34 @@
+Hey please check this cURL 
+
+
+
+curl 'https://codewiki.google/_/BoqAngularSdlcAgentsUi/data/batchexecute?rpcids=EgIxfe&source-path=%2Fgithub.com%2Fr8-devsin%2Fnuvdesk-support-suite&bl=boq_sdlc-agents-ui_20260610.02_p0&f.sid=-5342004169209236991&hl=en-US&_reqid=2034760&rt=c' \
+  -H 'sec-ch-ua-full-version-list: "Google Chrome";v="149.0.7827.114", "Chromium";v="149.0.7827.114", "Not)A;Brand";v="24.0.0.0"' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'Referer: https://codewiki.google/' \
+  -H 'sec-ch-ua: "Google Chrome";v="149", "Chromium";v="149", "Not)A;Brand";v="24"' \
+  -H 'sec-ch-ua-bitness: "64"' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'X-Same-Domain: 1' \
+  -H 'sec-ch-ua-wow64: ?0' \
+  -H 'sec-ch-ua-form-factors: "Desktop"' \
+  -H 'sec-ch-ua-arch: "x86"' \
+  -H 'sec-ch-ua-full-version: "149.0.7827.114"' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36' \
+  -H 'Content-Type: application/x-www-form-urlencoded;charset=UTF-8' \
+  -H 'sec-ch-ua-platform-version: "10.0.0"' \
+
+  --data-raw 'f.req=%5B%5B%5B%22EgIxfe%22%2C%22%5B%5B%5B%5C%22Hey%20what%20stack%20does%20it%20uses%5C%22%2C%5C%22user%5C%22%5D%5D%2C%5Bnull%2C%5C%22https%3A%2F%2Fgithub.com%2Fr8-devsin%2Fnuvdesk-support-suite%5C%22%5D%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&'
+
+
+
+
+
+and see it has two places for the github repo's URL and 1 prompt or query part 
+
+1st repo url is in the first line and query, 2nd repo url is in the data raw line.
+
+
+
+so check this properly and make a simple skill.
